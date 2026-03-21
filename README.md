@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Vivek Maurya 👋
 
-<!--
-**mvivek-dev/mvivek-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | Full Stack Developer | UPSC Aspirant  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 🎓 Electrical Engineering @ MANIT Bhopal  
+- 💼 Ex-Capgemini (DevOps Engineer)  
+- ⚙️ Skilled in CI/CD, Azure DevOps, Jenkins, Git  
+- 🌱 Currently building scalable web platforms & learning system design  
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: JavaScript, Python  
+- ⚙️ DevOps: Azure DevOps, Jenkins, Docker, GitHub Actions  
+- 🌐 Web: Next.js, React  
+- ☁️ Cloud: Azure  
+
+---
+
+## 📌 Projects
+- 🔥 DNB Surgery Notes App (EdTech Platform)
+- 🧠 The Recess Time (Blog Platform)
+- ⚙️ DevOps Automation Pipelines
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=mvivek-dev&show_icons=true)
+
+---
+
+## 🌐 Connect with Me
+- LinkedIn: (add link)
+- Portfolio: (add later)
