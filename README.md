@@ -1,6 +1,6 @@
 # Hi, I'm Vivek Maurya 👋
 
-🚀 Principal Software Engineer | AI-Native Developer | DevOps & Full Stack Specialist
+🚀 Principal Software Engineer | AI-Native Developer | Front-End & Full Stack Specialist
 
 ---
 
