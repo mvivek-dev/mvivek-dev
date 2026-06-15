@@ -1,99 +1,206 @@
 # Hi, I'm Vivek Maurya 👋
 
-🚀 Principal Software Engineer | AI-Native Developer | Front-End & Full Stack Specialist
+🚀 Full Stack Software Developer | AI-Native Engineer | React • Next.js • TypeScript • Node.js
 
 ---
 
-## 💡 About Me
+## 👨‍💻 About Me
 
-* 💼 Currently working as a **Software Developer @ ThinkVerse.AI** (Forward Deployed Engineer)
-* 🧠 Principal Engineer at **TechOrient**, building production-grade platforms
-* ⚙️ Ex-DevOps Engineer at **Capgemini** (Rising Star Award 🏆)
-* 🎓 B.Tech Electrical Engineering from **MANIT Bhopal**
-* 📊 Academic exposure to **Statistics @ BHU**
+I'm a Software Developer passionate about building scalable web applications, AI-powered products, and production-ready software.
 
-I specialize in designing and delivering **scalable, production-ready software systems** — from idea to deployment.
-My approach is **AI-native development**, leveraging modern tools to build faster, smarter, and better systems.
+Currently, I work as a **Freelance Full Stack Developer**, helping startups and businesses transform ideas into modern web applications using React, Next.js, Node.js, and AI-assisted development.
 
----
+Previously, I worked as a **DevOps Engineer at Capgemini**, where I designed enterprise CI/CD pipelines and cloud infrastructure solutions.
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-JavaScript | Python | C++
-
-### ⚙️ DevOps & Infrastructure
-
-Azure DevOps | Jenkins | Git | GitHub Actions
-Docker | Terraform | ARM Templates | CI/CD Pipelines
-
-### 🌐 Web Development
-
-Next.js | React | Node.js
-
-### ☁️ Cloud & Systems
-
-Microsoft Azure | System Design | Scalable Architectures
+I'm now looking for a **full-time Software Developer / Full Stack Engineer role** where I can contribute to building impactful products while continuing to grow as an engineer.
 
 ---
 
-## 📌 Key Work & Projects
+## 🛠 Tech Stack
 
-### 🧠 TalentOrient Platform
+### Languages
 
-* Built scalable web applications & internal dashboards
-* Partnered with founders to convert business ideas into working products
-* Focused on performance, usability, and maintainability
+* JavaScript (ES6+)
+* TypeScript
+* Python
+* C++
 
-### ⚗️ Zoro Chemistry (EdTech Platform)
+### Frontend
 
-* Developed full-stack platform for NET-JRF, JEE, NEET learners
-* Built dynamic course modules, admin systems & responsive UI
-* Delivered end-to-end production-ready application
+* React
+* Next.js
+* Tailwind CSS
+* HTML5
+* CSS3
 
-### ⚙️ DevOps Engineering @ Capgemini
+### Backend
 
-* Designed CI/CD pipelines using **Jenkins & Azure DevOps**
-* Automated deployments using PowerShell, Bash & YAML
-* Improved build efficiency and deployment speed
-* Worked on **cloud infrastructure & monitoring (Azure)**
+* Node.js
+* Express.js
+* REST APIs
 
----
+### DevOps & Cloud
 
-## 📈 GitHub Stats
+* Git
+* GitHub
+* Azure DevOps
+* GitHub Actions
+* Jenkins
+* Docker
+* Microsoft Azure
+* CI/CD
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvivek-dev\&show_icons=true)
+### Tools
 
----
-
-## 🧠 What I Bring
-
-* 🔹 End-to-end ownership: **Idea → Architecture → Deployment**
-* 🔹 Strong focus on **scalability, performance & clean design**
-* 🔹 Blend of **DevOps + Full Stack + Product Thinking**
-* 🔹 AI-native development mindset for faster execution
-
----
-
-## 🚀 Current Focus
-
-* Building **production-grade web platforms**
-* Exploring **system design & scalable architectures**
-* Applying **AI in software development workflows**
-
----
-
-## 🌐 Connect with Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/vivekhrmaurya/
-* 📧 Email: [vivekhrmaurya@gmail.com](mailto:vivekhrmaurya@gmail.com)
+* VS Code
+* Cursor
+* Claude Code
+* ChatGPT
+* Postman
+* Figma
 
 ---
 
-## ⚡ Fun Fact
+# 🚀 Projects
 
-From building **robots at MANIT 🤖** to designing **AI-powered software systems** —
-I enjoy solving real-world problems through technology.
+## TalentOrient
+
+A modern AI-powered recruitment platform.
+
+**Highlights**
+
+* Production-grade Next.js application
+* Modern responsive UI
+* Enterprise dashboard
+* SEO optimized
+* Performance focused
+
+🔗 Live: https://www.talentorient.com/
 
 ---
+
+## iGen Consultancy
+
+Corporate consulting website built using Next.js.
+
+**Highlights**
+
+* Responsive design
+* Fast performance
+* Business-focused UI
+* SEO optimization
+
+🔗 Live: https://www.igenconsultancy.net/
+
+---
+
+## TechOrient
+
+Technology company website showcasing software development services.
+
+**Highlights**
+
+* Modern UI
+* Responsive layouts
+* Service-oriented architecture
+* Performance optimized
+
+🔗 Live: https://www.tech-orient.com/
+
+---
+
+## The Recess Time
+
+Educational platform for students.
+
+**Highlights**
+
+* Interactive UI
+* Responsive design
+* Modern frontend architecture
+
+🔗 Live: https://www.therecesstime.online/
+
+---
+
+## Previous Experience
+
+### Freelance Software Developer
+
+* Build production-ready web applications
+* Convert business ideas into software products
+* End-to-end ownership from design to deployment
+* Work closely with founders and startups
+
+---
+
+### Capgemini Technology Services
+
+**Senior Analyst (DevOps Engineer)**
+
+* Built enterprise CI/CD pipelines
+* Automated deployments using Azure DevOps and Jenkins
+* Integrated SonarQube for code quality
+* Received the **Rising Star Award**
+* Worked on Azure cloud infrastructure
+
+---
+
+## Education
+
+**B.Tech — Electrical Engineering**
+
+Maulana Azad National Institute of Technology (MANIT), Bhopal
+
+CGPA: **8.51**
+
+---
+
+## What I Bring
+
+* Full Stack Development
+* Production-ready software engineering
+* Modern React & Next.js applications
+* AI-assisted software development
+* Clean architecture
+* Performance optimization
+* Scalable application design
+* DevOps experience
+
+---
+
+## 🌐 Portfolio
+
+* TalentOrient — https://www.talentorient.com/
+* iGen Consultancy — https://www.igenconsultancy.net/
+* TechOrient — https://www.tech-orient.com/
+* The Recess Time — https://www.therecesstime.online/
+
+---
+
+## 📫 Connect
+
+**LinkedIn**
+
+https://www.linkedin.com/in/vivekhrmaurya/
+
+**GitHub**
+
+https://github.com/mvivek-dev
+
+**Email**
+
+[vivekhrmaurya@gmail.com](mailto:vivekhrmaurya@gmail.com)
+
+---
+
+## 🎯 Currently
+
+* 💻 Freelance Full Stack Developer
+* 🚀 Building AI-powered web applications
+* 📚 Learning advanced system design
+* 🔍 Open to Full-Time Software Developer opportunities
+
+---
+
+> *"Great software isn't just code—it's solving real problems with simplicity, scalability, and thoughtful design."*
